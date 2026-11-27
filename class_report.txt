@@ -1,0 +1,8 @@
+SMARTSTUDY - CLASS PERFORMANCE REPORT
+-------------------------------------
+Total students: 4
+
+1. Aarav Sharma (BU001) - Average: 85.8, Grade: A
+2. Meera Kapoor (BU004) - Average: 85.6, Grade: A
+3. Diya Verma (BU002) - Average: 77.2, Grade: B
+4. Kabir Singh (BU003) - Average: 56.0, Grade: D
